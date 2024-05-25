@@ -4,5 +4,7 @@
   },
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "rust-analyzer.imports.group.enable": false,
+  "rust-analyzer.imports.granularity.group": "module"
 }
